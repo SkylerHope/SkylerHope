@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://mastodon.social/@Skyler_Sh" target="_blank"><img align="center" src="https://svgshare.com/i/13dn.svg" alt="SkylerSh" height="30" width="40" /></a>
 <a href="https://twitter.com/skylerhopesh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skylerhopesh" height="30" width="40" /></a>
+<a href="https://dev.to/skylerhope" target="_blank"><img align="center" src="https://svgshare.com/i/13fE.svg" alt="SkylerHope" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
