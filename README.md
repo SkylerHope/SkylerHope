@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://mastodon.social/@Skyler_Sh" target="blank"><img align="center" src="https://svgshare.com/i/13dn.svg" alt="SkylerSh" height="30" width="40" /></a>
 <a href="https://twitter.com/skylerhopesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skylerhopesh" height="30" width="40" /></a>
 </p>
 
