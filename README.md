@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skyler</h1>
 <h3 align="center">A programmer and a Linux enthusiast</h3>
 
-- 🔭 I’m currently working on [my coding blog](https://skylerhope.github.io/)
+- 🔭 I’m currently working on [my mental health](https://skylerhope.github.io/)
 
 - 🌱 I’m currently learning **Web Dev (React), Pen Testing**
 
