@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Skyler</h1>
 <h3 align="center">A programmer and a Linux enthusiast</h3>
 
-- 🔭 I’m currently working on [my mental health](https://skylerhope.github.io/)
+- 🔭 I’m currently working on [my coding blog](https://hope-coding.netlify.app/)
 
 - 🌱 I’m currently learning **Web Dev (React), Pen Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SkylerHope](https://github.com/SkylerHope)
+- 👨‍💻 All of my projects are available here
 
 <!--- 📝 I regularly write articles on [https://skylerhope.github.io/](https://skylerhope.github.io/)-->
 
