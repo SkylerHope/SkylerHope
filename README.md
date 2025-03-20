@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently not working on a new project
 
-- 🌱 I’m currently learning **Cyber Sercurity**
+- 🌱 I’m currently studying **Cyber Security**
 
 - 👨‍💻 All of my projects are available here
 
