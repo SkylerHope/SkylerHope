@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skyler</h1>
-<h3 align="center">A wannabe programmer and a Linux enthusiast</h3>
+<h3 align="center">A Linux enthusiast</h3>
 
 - 🔭 I’m currently not working on a new project
 
